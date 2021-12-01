@@ -1,0 +1,15 @@
+C:\Users\mohamed\source\repos\WindowCons\WindowCons\bin\Debug\WindowCons.exe.config
+C:\Users\mohamed\source\repos\WindowCons\WindowCons\bin\Debug\WindowCons.exe
+C:\Users\mohamed\source\repos\WindowCons\WindowCons\bin\Debug\WindowCons.pdb
+C:\Users\mohamed\source\repos\WindowCons\WindowCons\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mohamed\source\repos\WindowCons\WindowCons\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\mohamed\source\repos\WindowCons\WindowCons\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mohamed\source\repos\WindowCons\WindowCons\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\mohamed\source\repos\WindowCons\WindowCons\obj\Debug\WindowCons.csproj.SuggestedBindingRedirects.cache
+C:\Users\mohamed\source\repos\WindowCons\WindowCons\obj\Debug\WindowCons.Form1.resources
+C:\Users\mohamed\source\repos\WindowCons\WindowCons\obj\Debug\WindowCons.Properties.Resources.resources
+C:\Users\mohamed\source\repos\WindowCons\WindowCons\obj\Debug\WindowCons.csproj.GenerateResource.cache
+C:\Users\mohamed\source\repos\WindowCons\WindowCons\obj\Debug\WindowCons.csproj.CoreCompileInputs.cache
+C:\Users\mohamed\source\repos\WindowCons\WindowCons\obj\Debug\WindowCons.exe
+C:\Users\mohamed\source\repos\WindowCons\WindowCons\obj\Debug\WindowCons.pdb
+C:\Users\mohamed\source\repos\WindowCons\WindowCons\obj\Debug\WindowCons.csproj.AssemblyReference.cache
