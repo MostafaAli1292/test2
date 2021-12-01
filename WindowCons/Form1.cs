@@ -30,7 +30,7 @@ namespace WindowCons
             {
                List<course> crs= resp.Content.ReadAsAsync<List<course>>().Result;
                DGV_course.DataSource= crs.Select(n => new { n.Crs_Id, n.Crs_Name,n.Crs_Duration,n.Topic.Top_Name}).ToList();
-
+    //
             }
             else
             {
